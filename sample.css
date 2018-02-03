@@ -1,5 +1,5 @@
 
-  <style>
+ 
     
     /* univisted link */
     a:link {
@@ -11,8 +11,6 @@
 }
 
 /* NAV bar */
-
-
 .navigation {
   height: 70px;
   background: #262626;
@@ -81,7 +79,7 @@ nav ul li ul li a {
   display: none;
   z-index: 1;
   box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
-}
+} 
 
 /* Mobile navigation */
 .nav-mobile {
@@ -170,8 +168,6 @@ article {
   margin: 0 auto;
   padding: 10px;
 }
-
-
 /* end of nav bar */
 
 

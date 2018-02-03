@@ -156,3 +156,62 @@ article {
   margin: 0 auto;
   padding: 10px;
 }
+
+/* body */
+
+body{
+  margin:2;
+  background: #012236;
+
+}
+  
+h1{
+  margin:2;
+  background: #DFB259;
+}
+
+form {
+  margin:2;
+  background: #DFB259;
+}
+
+input {
+  margin:2;
+  background: tomato;
+}
+
+.jumbotron {
+      background-color:  #DFB259;
+      color:#DFB259;
+  }
+ /* footer {
+    background-color: #012236;
+  } */
+   /* .navbar-collapse {
+      margin-bottom: 0;
+      border-radius: 0;
+      background-color: #DFB259;
+      font-size: 20px;
+    } */
+    p{
+    	color: #DFB259;
+    }
+
+/* Footer */
+
+footer{
+  background-color: #424558;
+   position: fixed;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   height: 35px;
+   text-align: center;
+   color: #CCC;
+}
+
+footer p {
+   padding: 10.5px;
+   margin: 0px;
+   line-height: 100%;
+}
